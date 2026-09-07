@@ -44,11 +44,11 @@ export default function Navbar() {
             alt="Lambang Kepolisian Daerah Jawa Timur"
             className="h-14 w-14 sm:h-16 sm:w-16"
           />
-          <div className="leading-tight">
-            <p className="text-lg font-bold text-white sm:text-x1">
+          <div className="leading-snug">
+            <p className="text-lg font-bold text-white sm:text-xl">
               Analisis Berita Kepolisian
             </p>
-            <p className="text-xs font-medium text-gold-500 sm:text-sm">
+            <p className="text-sm font-semibold text-gold-500 sm:text-base">
               Kepolisian Daerah Jawa Timur &mdash; Bidang TIK
             </p>
           </div>
